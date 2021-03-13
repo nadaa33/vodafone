@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="step" type="CLASS" />
+      <mapping pattern="Steps" type="CLASS" />
+      <mapping pattern="main" type="JAVA" />
+      <mapping pattern="steps" type="JAVA" />
+    </extensionMap>
+  </component>
+</application>
