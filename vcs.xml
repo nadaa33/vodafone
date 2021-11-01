@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/nadaa33/Voda1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ibm.com/Nike/Java-Automation-Framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.ibm.com" />
+          <option name="userName" value="sara.othman@ibm.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
