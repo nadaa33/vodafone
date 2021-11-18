@@ -5,6 +5,7 @@
       <mapping pattern="Steps" type="CLASS" />
       <mapping pattern="main" type="JAVA" />
       <mapping pattern="steps" type="JAVA" />
+      <mapping pattern="ICC_CommercialData_EFS" type="JSON" />
     </extensionMap>
   </component>
 </application>
