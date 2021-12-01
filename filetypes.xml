@@ -1,11 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="step" type="CLASS" />
       <mapping pattern="Steps" type="CLASS" />
-      <mapping pattern="main" type="JAVA" />
+      <mapping pattern="step" type="CLASS" />
       <mapping pattern="steps" type="JAVA" />
+      <mapping pattern="main" type="JAVA" />
       <mapping pattern="ICC_CommercialData_EFS" type="JSON" />
+      <mapping pattern="Consolidation4Shipment1FP" type="JSON" />
+      <mapping pattern="Consolidation4Shipment1FP.Jsone" type="SQL" />
     </extensionMap>
   </component>
 </application>
