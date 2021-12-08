@@ -7,6 +7,7 @@
       <mapping pattern="main" type="JAVA" />
       <mapping pattern="ICC_CommercialData_EFS" type="JSON" />
       <mapping pattern="EMEA STP" type="JSON" />
+      <mapping pattern="EMEA_NL" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP.Jsone" type="SQL" />
     </extensionMap>
