@@ -10,6 +10,7 @@
       <mapping pattern="EMEA_GB" type="JSON" />
       <mapping pattern="ICC_EMEA_BE" type="JSON" />
       <mapping pattern="EMEA_NL" type="JSON" />
+      <mapping pattern="ICC_EMEA_BE202" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP.Jsone" type="SQL" />
     </extensionMap>
