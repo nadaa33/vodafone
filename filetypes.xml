@@ -13,6 +13,7 @@
       <mapping pattern="ICC_EMEA_BE202" type="JSON" />
       <mapping pattern="ICC_EMEA_BE201" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP" type="JSON" />
+      <mapping pattern="ICC_EMEA_207" type="JSON" />
       <mapping pattern="ICC_EMEA_GB205" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP.Jsone" type="SQL" />
     </extensionMap>
