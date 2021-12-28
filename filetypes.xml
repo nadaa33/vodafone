@@ -1,22 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Steps" type="CLASS" />
       <mapping pattern="step" type="CLASS" />
+      <mapping pattern="Steps" type="CLASS" />
       <mapping pattern="steps" type="JAVA" />
       <mapping pattern="main" type="JAVA" />
-      <mapping pattern="ICC_CommercialData_EFS" type="JSON" />
       <mapping pattern="EMEA STP" type="JSON" />
-      <mapping pattern="EMEA_GB" type="JSON" />
+      <mapping pattern="GBEntryDoc" type="JSON" />
       <mapping pattern="ICC_EMEA_BE" type="JSON" />
-      <mapping pattern="EMEA_NL" type="JSON" />
       <mapping pattern="ICC_EMEA_BE202" type="JSON" />
+      <mapping pattern="EMEA_NL" type="JSON" />
+      <mapping pattern="BE202EntryDoc" type="JSON" />
+      <mapping pattern="ICC_CommercialData_EFS" type="JSON" />
+      <mapping pattern="ICC_EMEA_GB205" type="JSON" />
       <mapping pattern="ICC_EMEA_BE201" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP" type="JSON" />
-      <mapping pattern="BE202EntryDoc.json" type="JSON" />
-      <mapping pattern="BE202EntryDoc" type="JSON" />
       <mapping pattern="ICC_EMEA_207" type="JSON" />
-      <mapping pattern="ICC_EMEA_GB205" type="JSON" />
+      <mapping pattern="BE202EntryDoc.json" type="JSON" />
+      <mapping pattern="EMEA_GB" type="JSON" />
       <mapping pattern="Consolidation4Shipment1FP.Jsone" type="SQL" />
     </extensionMap>
   </component>
